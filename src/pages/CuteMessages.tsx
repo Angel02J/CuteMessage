@@ -9,6 +9,8 @@ const messages = [
   "Estás haciendo un gran trabajo, paso a paso.",
   "El mundo es un lugar mejor porque tú estás en él.",
   "Confía en tu proceso, vas por buen camino.",
+  "Incluso en tus días grises, tu luz sigue siendo increíble.",
+  "Mereces todas las cosas bonitas que el universo tiene para ofrecerte.",
 ];
 
 export const CuteMessages = () => {
